@@ -7,7 +7,8 @@
 [![Speaker Deck](https://img.shields.io/badge/Speaker%20Deck-009287?style=for-the-badge&logo=speaker-deck&logoColor=%23FFFFFF)][speaker-deck]
 
 Hi! 👋 I’m a software engineer and engineering manager with a passion for
-programming languages, web technologies, and software craftsmanship.
+programming languages, web technologies, software craftsmanship, and
+sustainability.
 
 For more information about me, see my [website][website] or
 [LinkedIn][linkedin].

@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/badge/Website-262626?style=for-the-badge)][website]
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=%23FFFFFF)][mastodon]
-[![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)][bluesky]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)][linkedin]
 [![Speaker Deck](https://img.shields.io/badge/Speaker%20Deck-009287?style=for-the-badge&logo=speaker-deck&logoColor=%23FFFFFF)][speaker-deck]
 
@@ -15,6 +14,5 @@ For more information about me, see my [website][website] or
 
 [website]: https://majda.cz/
 [mastodon]: https://mastodon.social/@dmajda
-[bluesky]: https://bsky.app/profile/majda.cz
 [linkedin]: https://www.linkedin.com/in/dmajda/
 [speaker-deck]: https://speakerdeck.com/dmajda
